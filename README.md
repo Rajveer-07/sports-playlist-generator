@@ -4,8 +4,8 @@
 
 | Service | Source             | Playlist                                                                                                                |
 | ------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| AESport | https://aesport.tv | [playlists/aesport.m3u](https://raw.githubusercontent.com/Rajveer-Mahida/sports-playlist-generator/main/playlists/aesport.m3u) |
-| DaddyHD | https://dlhd.sx    | [playlists/daddyhd.m3u](https://raw.githubusercontent.com/Rajveer-Mahida/sports-playlist-generator//main/playlists/daddyhd.m3u) |
+| AESport | https://aesport.tv | [playlists/aesport.m3u](https://raw.githubusercontent.com/Rajveer-07/sports-playlist-generator/main/playlists/aesport.m3u) |
+| DaddyHD | https://dlhd.sx    | [playlists/daddyhd.m3u](https://raw.githubusercontent.com/Rajveer-07/sports-playlist-generator//main/playlists/daddyhd.m3u) |
 
 ### 🎁 Features
 
