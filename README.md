@@ -1,4 +1,4 @@
-# 🎬 Playlist Generator
+# 🎬 Sports-Playlist Generator
 
 ### 🔗 Active Playlists
 
