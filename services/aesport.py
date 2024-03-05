@@ -21,7 +21,8 @@ class AESport(BaseService):
             for channel_div in channels_divs:
                 channels_data.append({
                     "name": channel_div.select_one("div.channel-name").text.strip(),
-                    "logo": channel_div.select_one("img.hide").get("src"),
+                    # "logo": channel_div.select_one("img.hide").get("src"),
+                    "logo": "https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png",
                     # "group": section_div.select_one("div.left").text.strip(),
                     "group": "AESport",
                     "stream-url": channel_div.select_one("img.preview-tv").get("src").replace("preview.jpg", "index.m3u8"),
