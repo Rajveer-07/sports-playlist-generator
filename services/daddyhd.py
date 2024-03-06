@@ -8,7 +8,7 @@ import re
 class DaddyHD(BaseService):
     def __init__(self) -> None:
         super().__init__(
-            SERVICE_NAME="DaddyHD",
+            SERVICE_NAME="𝘿𝙖𝙙𝙙𝙮𝙃𝘿",
             SERVICE_URL="https://dlhd.sx/24-7-channels.php",
         )
 
