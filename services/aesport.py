@@ -6,7 +6,7 @@ from . import BaseService
 class AESport(BaseService):
     def __init__(self) -> None:
         super().__init__(
-            SERVICE_NAME="AESport",
+            SERVICE_NAME="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",
             SERVICE_URL="https://aesport.tv/live-tv.html",
         )
 
