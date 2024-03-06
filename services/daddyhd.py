@@ -34,7 +34,7 @@ class DaddyHD(BaseService):
             channels_data.append({
                 "name": channel_name,
                 "logo": "",
-                "group": "DaddyHD",
+                "group": "𝘿𝙖𝙙𝙙𝙮𝙃𝘿",
                 "stream-url": config_data.get("endpoint").replace("STREAM-ID", channel_id),
                 "headers": {
                     "referer": config_data.get("referer"),

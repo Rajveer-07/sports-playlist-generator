@@ -24,7 +24,7 @@ class AESport(BaseService):
                     # "logo": channel_div.select_one("img.hide").get("src"),
                     "logo": "https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png",
                     # "group": section_div.select_one("div.left").text.strip(),
-                    "group": "AESport",
+                    "group": "𝘼𝙀𝙎𝙥𝙤𝙧𝙩",
                     "stream-url": channel_div.select_one("img.preview-tv").get("src").replace("preview.jpg", "index.m3u8"),
                     "headers": {
                         "referer": get_base_url(channel_div.parent.get("href")) + "/",
