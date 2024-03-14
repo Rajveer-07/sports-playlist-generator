@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-14 07:00:16 UTC
+# (●) Last Update: 2024-03-14 12:11:03 UTC
 # (●) Service: AESport
 # (●) Total Channels: 51
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -19,7 +19,7 @@ https://gelive.score806.cc/uk_bts2/index.m3u8
 #EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",TNT SPORT 3
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://labsec.score806.cc/hdlYIUhVzrMm5RgkrshGb5_4ORMpxytyY7r6mGkfWf0=/1710413430621/live2/uk_bts3/index.m3u8
+https://ussec.score806.cc/UCwGMuUKSGYxc0sILrTPY6wk3hh0QvDA_hlCckLYoxw=/1710432337065/uk_bts3/index.m3u8
 
 #EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",PREMIER SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
