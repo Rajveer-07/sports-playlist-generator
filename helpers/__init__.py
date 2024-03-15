@@ -18,7 +18,7 @@ def get_base_url(url: str) -> str:
 
 
 def generate_playlist(service_name: str, data: List[Dict[str, Dict]]) -> str:
-    playlist_splitted = [""]
+     playlist_splitted = ["#EXTM3U"]
 
     with open(os.path.join(RESOURCES_DIR, "playlist-header.txt"), encoding="utf-8") as file:
         header_template = Template(file.read())
