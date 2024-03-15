@@ -60,7 +60,7 @@ def generate_playlist(service_name: str, data: List[Dict[str, Dict]]) -> str:
 
         playlist_splitted.append(channel_url)
 
-        playlist_splitted.append("\n")
+        playlist_splitted.append("")
 
     playlist = "\n".join(playlist_splitted)
     return playlist
