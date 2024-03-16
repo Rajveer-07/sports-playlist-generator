@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-16 12:09:48 UTC
+# (●) Last Update: 2024-03-16 12:35:17 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -119,7 +119,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/hjPNl+kAWg+HqEpUS1azN4hHP12A3wCspsLVawXdx_E=/1710605111468/us_fs1/index.m3u8
+https://nlsec.score806.cc/0iSz0xW8VM_dwVyLOmKGFA3LnEt3Y0GvoFjXr2NVCQc=/1710606337953/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
