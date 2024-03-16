@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-16 06:07:15 UTC
+# (●) Last Update: 2024-03-16 06:23:10 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -19,7 +19,7 @@ https://gelive.score806.cc/uk_bts2/index.m3u8
 #EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",TNT SPORT 3
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/Jb5CtMWDnuqRUtkhbvupigc1ReSBedEnVQC4FZcZH8s=/1710583048417/uk_bts3/index.m3u8
+https://nlsec.score806.cc/_8QX2oWoKXiEAtTwLpk6GqBRwq9UxE0DdgSssI1ZQwQ=/1710584554932/uk_bts3/index.m3u8
 
 #EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",PREMIER SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -119,7 +119,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/BM0+fOFxQCQiL9_u2yTi9qJdAS5o_biKjBFD_8eyMe0=/1710583099196/us_fs1/index.m3u8
+https://nlsec.score806.cc/SxXfJ4TgaKlJxlt6pgGTmij25Rjf5r8Nqf2NCao3U7s=/1710584555377/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
