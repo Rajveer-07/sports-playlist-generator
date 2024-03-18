@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-18 12:59:39 UTC
+# (●) Last Update: 2024-03-18 18:07:17 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -159,22 +159,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/2wx7E2OvkHhPrfZIRCKdzmUx7_yPa9PNuMBpzDb0Hro=/1710781173985/fr_beinsports1/index.m3u8
+https://nlsec.score806.cc/51JMBaKWrZt2cHDcH3qnk3mhCRPhNg3RLHB1KtcjB+Y=/1710799636677/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/YkjWrVm_kMf9Yt0zuwIXewdC4czgLenQZxKdROrISb0=/1710781174065/fr_beinsports2/index.m3u8
+https://nlsec.score806.cc/wyNyM4RXf3rUq7ZUfDgDlPslAw+XT6bF4hfx+g0QDBU=/1710799636767/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/FesI+ICEGFjdUfXlvtvSIv2Gb17b9LRPEwUUeagntCo=/1710781174145/fr_rmcsport1/index.m3u8
+https://nlsec.score806.cc/tS_2Br5pUWr4iVCI1Z3fH1h_24cA5JM750c2Wr4WTlk=/1710799636849/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/sDgH8KtI6JpT5dN0Rbz98gWCzqoaIXXCp4AwVkwYPlI=/1710781174225/fr_rmcsport2/index.m3u8
+https://nlsec.score806.cc/sVwAwoEz0hhexdcevWeiDMp65Fhx3afoKsQoWB6vxoM=/1710799636924/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
