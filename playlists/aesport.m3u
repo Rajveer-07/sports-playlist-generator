@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-04-06 13:00:05 UTC
+# (●) Last Update: 2024-04-06 18:06:52 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -89,7 +89,7 @@ https://thumb.score806.cc/uk_bbc3/index.m3u8
 #EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",ITV 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://thumb.score806.cc//uk_itv1/index.m3u8
+https://thumb.score806.cc/uk_itv1/index.m3u8
 
 #EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://i.postimg.cc/c6q46Q7v/SPIDY-LOGO-2.png" group-title="𝘼𝙀𝙎𝙥𝙤𝙧𝙩",ITV 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
